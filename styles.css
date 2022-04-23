@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(230, 213, 235);
+  }
+hr{
+    border-style: solid none none;
+    border-width: 1px;
+    border-color: rgb(96, 96, 96);
+    width: 99%;
+  }
+h1{
+    color: #452c7e;
+}
