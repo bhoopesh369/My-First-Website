@@ -1,2 +1,3 @@
 # CV
-CV in just HTML
+First Website I coded
+CV in just HTML CSS
