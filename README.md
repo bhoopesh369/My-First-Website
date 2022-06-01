@@ -1,5 +1,5 @@
-# CV
+# First Website
 First Website I coded. 
 
 
-CV in just HTML CSS
+Just HTML CSS
